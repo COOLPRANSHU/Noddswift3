@@ -1,10 +1,4 @@
-//
-//  HonoluluArtTests.swift
-//  HonoluluArtTests
-//
-//  Created by Audrey M Tam on 21/12/2014.
-//  Copyright (c) 2014 Ray Wenderlich. All rights reserved.
-//
+
 
 import UIKit
 import XCTest
